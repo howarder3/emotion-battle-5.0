@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\pre-dexed\debug\gson-2.5_611ebee736fd71735c803243c28656233df0ecf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\face\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b9885b9cbfc39129a13674d39d0cae321fc0dc97">
+        <dex dex="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\pre-dexed\debug\com.microsoft.projectoxford-face-1.0.0_f66f43e6e45a3d6cc7daafd027a229b5e6333861.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_6ae802546e5a3f761b81ae5de84cae463d8197c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_58365d45a577ff57b3833a420a4af4fc325c93cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_aa48eba336c3864894b07b7fdd1dc85d354431a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85580f7e643f4e319878f282874afccc3b1b95ed">
+        <dex dex="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\pre-dexed\debug\com.microsoft.projectoxford-emotion-1.0.0_00781cc148fb7df30ca0fa958b06c02e9fe7f082.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_e101f0109116aea3f666c9265d7b1f4c6c3f75ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\1.0.0\jars\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\user\Desktop\emotion battle 5.0\app\build\intermediates\pre-dexed\debug\commons-io-2.4_46ff954e99be7f4a1954f177310feb7f214ebbc4.jar" />
+    </item>
+
+</items>
