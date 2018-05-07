@@ -479,7 +479,7 @@ public class RecognizeActivity extends ActionBarActivity {
            ByteArrayInputStream inputStream = new ByteArrayInputStream(output.toByteArray());
            FaceRectangle[] faceRectangles = null;
            String faceSubscriptionKey = getString(R.string.faceSubscription_key);
-           FaceServiceRestClient faceClient = new FaceServiceRestClient(faceSubscriptionKey);
+           FaceServiceRestClient faceClient = new FaceServiceRestClient("https://westus.api.cognitive.microsoft.com/face/v1.0",faceSubscriptionKey);
            Face faces[] = faceClient.detect(inputStream, false, false, null);
 
            if (faces != null) {
